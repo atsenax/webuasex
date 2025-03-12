@@ -1,6 +1,6 @@
 module.exports = {
     targetUserIds: [
-        "2497966"
+        "idtujuan"
     ], // Target user ID for points transfer & follow
     telegramBotToken: "bottoken", // Telegram bot token
     telegramChatId: "idtele",   // Telegram chat ID
